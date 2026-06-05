@@ -1,8 +1,7 @@
 **# ZULTAR
 
-![Version](https://img.shields.io/github/v/release/iamsuperdoopercoolmax/ZULTAR?style=for-the-badge)
-![Downloads](https://img.shields.io/github/downloads/iamsuperdoopercoolmax/ZULTAR/total?style=for-the-badge)
-![License](https://img.shields.io/github/license/iamsuperdoopercoolmax/ZULTAR?style=for-the-badge)
+![Version](https://img.shields.io/github/v/release/iamsuperdoopercoolmax/Zultar-Discord-Multi-Tool?style=for-the-badge)
+![Downloads](https://img.shields.io/github/downloads/iamsuperdoopercoolmax/Zultar-Discord-Multi-Tool/total?style=for-the-badge)
 
 > A clean and easy-to-use **Discord Multi-Tool** with a modern GUI. Run it and access everything in one place.
 
@@ -23,7 +22,7 @@
 
 ## 🚀 How to Use
 
-1. Go to the **[Releases](https://github.com/YOUR_USERNAME/ZULTAR/releases)** page
+1. Go to the **[Releases](https://github.com/iamsuperdoopercoolmax/Zultar-Discord-Multi-Tool/releases)** page
 2. Download the latest `ZULTAR.exe`
 3. Double-click the file to launch it
 4. The GUI will open and you can start using the tools
