@@ -11,17 +11,15 @@
 ## ✨ Features
 
 ### 🆕 New Additions
-- New Feature 1 – (add short description)
-- New Feature 2 – (add short description)
-- New Feature 3 – (add short description)
+- 1 Webhook Nuker/Deletor
+- 2 Nitro Generator
+- 3 Discord Crasher
 
 ### Main Features
-- ••••• (list all your tools/features here)
-- •••••
-- •••••
-- •••••
-
-*(Examples: Server Info, User Lookup, Message Tools, Invite Tools, etc.)*
+- Grabber Generator
+- MWare Generator
+- 🐭 Generator
+- ...And more
 
 ## 🚀 How to Use
 
