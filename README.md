@@ -1,8 +1,8 @@
 **# ZULTAR
 
-![Version](https://img.shields.io/github/v/release/YOUR_USERNAME/ZULTAR?style=for-the-badge)
-![Downloads](https://img.shields.io/github/downloads/YOUR_USERNAME/ZULTAR/total?style=for-the-badge)
-![License](https://img.shields.io/github/license/YOUR_USERNAME/ZULTAR?style=for-the-badge)
+![Version](https://img.shields.io/github/v/release/iamsuperdoopercoolmax/ZULTAR?style=for-the-badge)
+![Downloads](https://img.shields.io/github/downloads/iamsuperdoopercoolmax/ZULTAR/total?style=for-the-badge)
+![License](https://img.shields.io/github/license/iamsuperdoopercoolmax/ZULTAR?style=for-the-badge)
 
 > A clean and easy-to-use **Discord Multi-Tool** with a modern GUI. Run it and access everything in one place.
 
