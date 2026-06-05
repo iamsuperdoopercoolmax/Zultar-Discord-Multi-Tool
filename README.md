@@ -1,4 +1,4 @@
-# ZULTAR
+**# ZULTAR
 
 ![Version](https://img.shields.io/github/v/release/YOUR_USERNAME/ZULTAR?style=for-the-badge)
 ![Downloads](https://img.shields.io/github/downloads/YOUR_USERNAME/ZULTAR/total?style=for-the-badge)
@@ -51,3 +51,4 @@ Feel free to fork, open issues, or submit pull requests to add new tools!
 ## License
 
 MIT License
+**
