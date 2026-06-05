@@ -2,7 +2,6 @@
 
 ![Version](https://img.shields.io/github/v/release/iamsuperdoopercoolmax/Zultar-Discord-Multi-Tool?style=for-the-badge)
 ![Total Downloads](https://img.shields.io/github/downloads/iamsuperdoopercoolmax/Zultar-Discord-Multi-Tool/total?style=for-the-badge)
-![License](https://img.shields.io/github/license/iamsuperdoopercoolmax/Zultar-Discord-Multi-Tool?style=for-the-badge)
 
 > A clean and easy-to-use **Discord Multi-Tool** with a modern GUI.
 
