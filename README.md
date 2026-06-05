@@ -1,4 +1,4 @@
-**# ZULTAR
+# ZULTAR
 
 ![Version](https://img.shields.io/github/v/release/iamsuperdoopercoolmax/Zultar-Discord-Multi-Tool?style=for-the-badge)
 ![Downloads](https://img.shields.io/github/downloads/iamsuperdoopercoolmax/Zultar-Discord-Multi-Tool/total?style=for-the-badge)
@@ -10,15 +10,15 @@
 ## ✨ Features
 
 ### 🆕 New Additions
-- 1 Webhook Nuker/Deletor
-- 2 Nitro Generator
-- 3 Discord Crasher
+- Webhook Nuker / Deletor
+- Nitro Generator
+- Discord Crasher
 
 ### Main Features
 - Grabber Generator
 - MWare Generator
 - 🐭 Generator
-- ...And more
+- ...and more
 
 ## 🚀 How to Use
 
@@ -36,16 +36,16 @@
 <!-- Add more screenshots here -->
 
 ## Requirements
-
-- Windows (tested on 10/11)
-- No installation needed
+- Windows 10 or 11
+- No installation required
 - Just run the `.exe`
 
 ## Contributing
-
-Feel free to fork, open issues, or submit pull requests to add new tools!
+Feel free to fork the project, open issues, or submit pull requests to add new tools!
 
 ## License
-
 MIT License
-**
+
+---
+
+**Made with ❤️ for the community**
